@@ -30,3 +30,5 @@ If you have something you want to contribute do not hesitate to submit a pull re
 ### go to next word
 
 ![go-to-next-word](gifs/go-to-next-word.gif)
+
+To go the reverse direction press `#`
