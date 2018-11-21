@@ -1,6 +1,6 @@
 /**
- * Demo changing surrounding tag. Useful for html, xml, jsx.
- * Press: cst<tagname>  || e.g cst<span>
+ * Demo go to matching brace {} () []
+ * Press: %
  * vscode-vim.muhajirframe.com
  */
 
