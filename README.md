@@ -1,4 +1,4 @@
-# vscode-vim-tips
+# VSCode + Vim Tips and Trick for Daily Use
 
 This repo contains useful Tips and trick for VSCode and VIM.
 If you have something you want to contribute do not hesitate to submit a pull request or submit an issue
