@@ -26,3 +26,7 @@ If you have something you want to contribute do not hesitate to submit a pull re
 ### Go To Matching Braces
 
 ![go-to-matching-braces](gifs/go-to-matching-braces.gif)
+
+### go to next word
+
+![go-to-next-word](gifs/go-to-next-word.gif)
