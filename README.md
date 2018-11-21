@@ -16,3 +16,7 @@ press `di{`
 ### Delete everything inside parentheses
 
 ![Delete everything inside parentheses](gifs/delete-everything-inside-parentheses.gif)
+
+### Change Surrounding Tag
+
+![Change Surrounding Tag](gifs/change-surrounding-tag.gif)
