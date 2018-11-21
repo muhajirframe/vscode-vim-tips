@@ -5,12 +5,10 @@ If you have something you want to contribute do not hesitate to submit a pull re
 
 ### Deleting a function
 
-Press `daI`
 ![delete-a-function](gifs/delete-function.gif)
 
 ### Delete everything inside curly bracket `{..}`
 
-press `di{`
 ![Delete everything inside curly bracket](gifs/delete-inside-curly-bracket.gif)
 
 ### Delete everything inside parentheses
