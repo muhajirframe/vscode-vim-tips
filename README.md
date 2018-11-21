@@ -7,3 +7,6 @@
 - Delete everything inside curly bracket `{..}`
   press `di{`
   ![Delete everything inside curly bracket](gifs/delete-inside-curly-bracket.gif)
+
+- Delete everything inside parentheses
+  ![Delete everything inside parentheses](gifs/delete-everything-inside-parentheses.gif)
