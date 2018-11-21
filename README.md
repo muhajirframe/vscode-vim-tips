@@ -19,6 +19,10 @@ If you have something you want to contribute do not hesitate to submit a pull re
 
 ![Change Surrounding Tag](gifs/change-surrounding-tag.gif)
 
-### change single quote to double quote
+### Change Single Quote to Double Quote
 
 ![change-single-quote-to-double-quote](gifs/change-single-quote-to-double-quote.gif)
+
+### Go To Matching Braces
+
+![go-to-matching-braces](gifs/go-to-matching-braces.gif)
