@@ -20,3 +20,7 @@ press `di{`
 ### Change Surrounding Tag
 
 ![Change Surrounding Tag](gifs/change-surrounding-tag.gif)
+
+### change single quote to double quote
+
+![change-single-quote-to-double-quote](gifs/change-single-quote-to-double-quote.gif)
